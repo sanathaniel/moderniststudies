@@ -13,7 +13,7 @@ sidebar:
 	  <h1 id="page-title" class="page__title" itemprop="headline">       
           MSA Conferences     
       </h1> 
-    </div> 
+    </div>
 </div>
 </div>
 

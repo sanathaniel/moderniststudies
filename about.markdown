@@ -13,7 +13,7 @@ sidebar:
 	  <h1 id="page-title" class="page__title" itemprop="headline">       
           About MSA     
       </h1> 
-    </div> 
+    </div>
 </div>
 </div>
 

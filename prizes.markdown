@@ -46,7 +46,7 @@ sidebar:
 <p>Please visit our <a href="/prizes/nominations">Nominations page</a>
 	to recommend a book for this year's prize.<br /> Visit our <a
 		href="/prizes/previous-winners">archive</a> to see previous
-	winners.</p> 
+	winners.</p>
 <!-- #EndEditable -->
 
 

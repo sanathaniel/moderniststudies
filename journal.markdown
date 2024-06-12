@@ -14,7 +14,7 @@ sidebar:
           <i>Modernism/modernity</i>   
       </h1> 
     </div>
-</div> 
+</div>
 </div>
 
 <!--
