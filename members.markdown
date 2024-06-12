@@ -14,7 +14,7 @@ sidebar:
           Membership    
       </h1> 
     </div>
-</div>
+</div> 
 </div>
 
 <!--
